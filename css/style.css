@@ -42,6 +42,9 @@ article {
   font-size: 2rem;
 }
 
+figure {
+  margin-bottom: 30px;
+}
 figure img {
   width: 100%;
 }
